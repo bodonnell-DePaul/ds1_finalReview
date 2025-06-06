@@ -71,12 +71,9 @@ Quick Sort is a highly efficient sorting algorithm that uses a divide-and-conque
 | Bubble Sort | O(n²) avg/worst | O(1) | Stable | Education, tiny datasets |
 | Quick Sort | O(n log n) avg | O(log n) | Unstable | General purpose, large random data |
 | Heap Sort | O(n log n) all | O(1) | Unstable | Guaranteed performance |
-| Union-Find | O(α(n)) amortized | O(n) | N/A | Connectivity problems |
 
 ## Conclusion
 Understanding these fundamental algorithms is crucial for software development and problem-solving:
 
 - **Sorting algorithms** each have specific strengths: Bubble Sort for education, Quick Sort for general use, and Heap Sort for guaranteed performance.
-- **Union-Find** is indispensable for connectivity problems and graph algorithms, offering nearly constant-time operations with proper optimizations.
-- The choice of algorithm should always consider the specific requirements: dataset size, performance guarantees, memory constraints, and stability needs.
-- These algorithms form the foundation for more complex data structures and algorithms in computer science.
+
